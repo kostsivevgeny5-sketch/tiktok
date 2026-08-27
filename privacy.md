@@ -1,4 +1,5 @@
 tiktok-developers-site-verification=Aan2PBJt9PPh9uoOmy3YMC9HjDUMNSbb
+<!--
 # Privacy Policy
 
 Last updated: August 27, 2026
@@ -295,3 +296,4 @@ If You have any questions about this Privacy Policy, You can contact Us:
 
 
 - By email: kostsiv.evgeny5@gmail.com
+-->
